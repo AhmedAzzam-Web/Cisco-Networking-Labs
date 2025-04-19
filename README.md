@@ -2,6 +2,8 @@
 
 This is part of 12-hour comprehensive hands-on experience course at Udemy : https://www.udemy.com/course/practical-cisco-networking-labs
 
+Each folder contains all materials about the subject and 2 lab files: the one with `- Copy` is my workspace 
+
 This folder "my own CCNA Labs with my notes_for_revision" contain practical labs coupled with thereotical information in each lab. Good for quick revision
 
 
